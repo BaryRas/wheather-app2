@@ -1,0 +1,1716 @@
+[{
+    "country": "Somaliland",
+    "capital": "Hargeisa",
+    "lat": "9.55",
+    "long": "44.050000",
+    "abbr": "NULL",
+    "ContinentName": "Africa"
+}, {
+    "country": "South Georgia and South Sandwich Islands",
+    "capital": "King Edward Point",
+    "lat": "-54.283333",
+    "long": "-36.500000",
+    "abbr": "GS",
+    "ContinentName": "Antarctica"
+}, {
+    "country": "French Southern and Antarctic Lands",
+    "capital": "Port-aux-FranÃ§ais",
+    "lat": "-49.35",
+    "long": "70.216667",
+    "abbr": "TF",
+    "ContinentName": "Antarctica"
+}, {
+    "country": "Palestine",
+    "capital": "Jerusalem",
+    "lat": "31.766666666666666",
+    "long": "35.233333",
+    "abbr": "PS",
+    "ContinentName": "Asia"
+}, {
+    "country": "Aland Islands",
+    "capital": "Mariehamn",
+    "lat": "60.116667",
+    "long": "19.900000",
+    "abbr": "AX",
+    "ContinentName": "Europe"
+}, {
+    "country": "Nauru",
+    "capital": "Yaren",
+    "lat": "-0.5477",
+    "long": "166.920867",
+    "abbr": "NR",
+    "ContinentName": "Australia"
+}, {
+    "country": "Saint Martin",
+    "capital": "Marigot",
+    "lat": "18.0731",
+    "long": "-63.082200",
+    "abbr": "MF",
+    "ContinentName": "North America"
+}, {
+    "country": "Tokelau",
+    "capital": "Atafu",
+    "lat": "-9.166667",
+    "long": "-171.833333",
+    "abbr": "TK",
+    "ContinentName": "Australia"
+}, {
+    "country": "Western Sahara",
+    "capital": "El-AaiÃºn",
+    "lat": "27.153611",
+    "long": "-13.203333",
+    "abbr": "EH",
+    "ContinentName": "Africa"
+}, {
+    "country": "Afghanistan",
+    "capital": "Kabul",
+    "lat": "34.516666666666666",
+    "long": "69.183333",
+    "abbr": "AF",
+    "ContinentName": "Asia"
+}, {
+    "country": "Albania",
+    "capital": "Tirana",
+    "lat": "41.31666666666667",
+    "long": "19.816667",
+    "abbr": "AL",
+    "ContinentName": "Europe"
+}, {
+    "country": "Algeria",
+    "capital": "Algiers",
+    "lat": "36.75",
+    "long": "3.050000",
+    "abbr": "DZ",
+    "ContinentName": "Africa"
+}, {
+    "country": "American Samoa",
+    "capital": "Pago Pago",
+    "lat": "-14.266666666666667",
+    "long": "-170.700000",
+    "abbr": "AS",
+    "ContinentName": "Australia"
+}, {
+    "country": "Andorra",
+    "capital": "Andorra la Vella",
+    "lat": "42.5",
+    "long": "1.516667",
+    "abbr": "AD",
+    "ContinentName": "Europe"
+}, {
+    "country": "Angola",
+    "capital": "Luanda",
+    "lat": "-8.833333333333334",
+    "long": "13.216667",
+    "abbr": "AO",
+    "ContinentName": "Africa"
+}, {
+    "country": "Anguilla",
+    "capital": "The Valley",
+    "lat": "18.216666666666665",
+    "long": "-63.050000",
+    "abbr": "AI",
+    "ContinentName": "North America"
+}, {
+    "country": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "lat": "17.116666666666667",
+    "long": "-61.850000",
+    "abbr": "AG",
+    "ContinentName": "North America"
+}, {
+    "country": "Argentina",
+    "capital": "Buenos Aires",
+    "lat": "-34.583333333333336",
+    "long": "-58.666667",
+    "abbr": "AR",
+    "ContinentName": "South America"
+}, {
+    "country": "Armenia",
+    "capital": "Yerevan",
+    "lat": "40.166666666666664",
+    "long": "44.500000",
+    "abbr": "AM",
+    "ContinentName": "Europe"
+}, {
+    "country": "Aruba",
+    "capital": "Oranjestad",
+    "lat": "12.516666666666667",
+    "long": "-70.033333",
+    "abbr": "AW",
+    "ContinentName": "North America"
+}, {
+    "country": "Australia",
+    "capital": "Canberra",
+    "lat": "-35.266666666666666",
+    "long": "149.133333",
+    "abbr": "AU",
+    "ContinentName": "Australia"
+}, {
+    "country": "Austria",
+    "capital": "Vienna",
+    "lat": "48.2",
+    "long": "16.366667",
+    "abbr": "AT",
+    "ContinentName": "Europe"
+}, {
+    "country": "Azerbaijan",
+    "capital": "Baku",
+    "lat": "40.38333333333333",
+    "long": "49.866667",
+    "abbr": "AZ",
+    "ContinentName": "Europe"
+}, {
+    "country": "Bahamas",
+    "capital": "Nassau",
+    "lat": "25.083333333333332",
+    "long": "-77.350000",
+    "abbr": "BS",
+    "ContinentName": "North America"
+}, {
+    "country": "Bahrain",
+    "capital": "Manama",
+    "lat": "26.233333333333334",
+    "long": "50.566667",
+    "abbr": "BH",
+    "ContinentName": "Asia"
+}, {
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "lat": "23.716666666666665",
+    "long": "90.400000",
+    "abbr": "BD",
+    "ContinentName": "Asia"
+}, {
+    "country": "Barbados",
+    "capital": "Bridgetown",
+    "lat": "13.1",
+    "long": "-59.616667",
+    "abbr": "BB",
+    "ContinentName": "North America"
+}, {
+    "country": "Belarus",
+    "capital": "Minsk",
+    "lat": "53.9",
+    "long": "27.566667",
+    "abbr": "BY",
+    "ContinentName": "Europe"
+}, {
+    "country": "Belgium",
+    "capital": "Brussels",
+    "lat": "50.833333333333336",
+    "long": "4.333333",
+    "abbr": "BE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Belize",
+    "capital": "Belmopan",
+    "lat": "17.25",
+    "long": "-88.766667",
+    "abbr": "BZ",
+    "ContinentName": "Central America"
+}, {
+    "country": "Benin",
+    "capital": "Porto-Novo",
+    "lat": "6.483333333333333",
+    "long": "2.616667",
+    "abbr": "BJ",
+    "ContinentName": "Africa"
+}, {
+    "country": "Bermuda",
+    "capital": "Hamilton",
+    "lat": "32.28333333333333",
+    "long": "-64.783333",
+    "abbr": "BM",
+    "ContinentName": "North America"
+}, {
+    "country": "Bhutan",
+    "capital": "Thimphu",
+    "lat": "27.466666666666665",
+    "long": "89.633333",
+    "abbr": "BT",
+    "ContinentName": "Asia"
+}, {
+    "country": "Bolivia",
+    "capital": "La Paz",
+    "lat": "-16.5",
+    "long": "-68.150000",
+    "abbr": "BO",
+    "ContinentName": "South America"
+}, {
+    "country": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "lat": "43.86666666666667",
+    "long": "18.416667",
+    "abbr": "BA",
+    "ContinentName": "Europe"
+}, {
+    "country": "Botswana",
+    "capital": "Gaborone",
+    "lat": "-24.633333333333333",
+    "long": "25.900000",
+    "abbr": "BW",
+    "ContinentName": "Africa"
+}, {
+    "country": "Brazil",
+    "capital": "Brasilia",
+    "lat": "-15.783333333333333",
+    "long": "-47.916667",
+    "abbr": "BR",
+    "ContinentName": "South America"
+}, {
+    "country": "British Virgin Islands",
+    "capital": "Road Town",
+    "lat": "18.416666666666668",
+    "long": "-64.616667",
+    "abbr": "VG",
+    "ContinentName": "North America"
+}, {
+    "country": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "lat": "4.883333333333333",
+    "long": "114.933333",
+    "abbr": "BN",
+    "ContinentName": "Asia"
+}, {
+    "country": "Bulgaria",
+    "capital": "Sofia",
+    "lat": "42.68333333333333",
+    "long": "23.316667",
+    "abbr": "BG",
+    "ContinentName": "Europe"
+}, {
+    "country": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "lat": "12.366666666666667",
+    "long": "-1.516667",
+    "abbr": "BF",
+    "ContinentName": "Africa"
+}, {
+    "country": "Myanmar",
+    "capital": "Rangoon",
+    "lat": "16.8",
+    "long": "96.150000",
+    "abbr": "MM",
+    "ContinentName": "Asia"
+}, {
+    "country": "Burundi",
+    "capital": "Bujumbura",
+    "lat": "-3.3666666666666667",
+    "long": "29.350000",
+    "abbr": "BI",
+    "ContinentName": "Africa"
+}, {
+    "country": "Cambodia",
+    "capital": "Phnom Penh",
+    "lat": "11.55",
+    "long": "104.916667",
+    "abbr": "KH",
+    "ContinentName": "Asia"
+}, {
+    "country": "Cameroon",
+    "capital": "Yaounde",
+    "lat": "3.8666666666666667",
+    "long": "11.516667",
+    "abbr": "CM",
+    "ContinentName": "Africa"
+}, {
+    "country": "Canada",
+    "capital": "Ottawa",
+    "lat": "45.416666666666664",
+    "long": "-75.700000",
+    "abbr": "CA",
+    "ContinentName": "Central America"
+}, {
+    "country": "Cape Verde",
+    "capital": "Praia",
+    "lat": "14.916666666666666",
+    "long": "-23.516667",
+    "abbr": "CV",
+    "ContinentName": "Africa"
+}, {
+    "country": "Cayman Islands",
+    "capital": "George Town",
+    "lat": "19.3",
+    "long": "-81.383333",
+    "abbr": "KY",
+    "ContinentName": "North America"
+}, {
+    "country": "Central African Republic",
+    "capital": "Bangui",
+    "lat": "4.366666666666666",
+    "long": "18.583333",
+    "abbr": "CF",
+    "ContinentName": "Africa"
+}, {
+    "country": "Chad",
+    "capital": "N'Djamena",
+    "lat": "12.1",
+    "long": "15.033333",
+    "abbr": "TD",
+    "ContinentName": "Africa"
+}, {
+    "country": "Chile",
+    "capital": "Santiago",
+    "lat": "-33.45",
+    "long": "-70.666667",
+    "abbr": "CL",
+    "ContinentName": "South America"
+}, {
+    "country": "China",
+    "capital": "Beijing",
+    "lat": "39.916666666666664",
+    "long": "116.383333",
+    "abbr": "CN",
+    "ContinentName": "Asia"
+}, {
+    "country": "Christmas Island",
+    "capital": "The Settlement",
+    "lat": "-10.416666666666666",
+    "long": "105.716667",
+    "abbr": "CX",
+    "ContinentName": "Australia"
+}, {
+    "country": "Cocos Islands",
+    "capital": "West Island",
+    "lat": "-12.166666666666666",
+    "long": "96.833333",
+    "abbr": "CC",
+    "ContinentName": "Australia"
+}, {
+    "country": "Colombia",
+    "capital": "Bogota",
+    "lat": "4.6",
+    "long": "-74.083333",
+    "abbr": "CO",
+    "ContinentName": "South America"
+}, {
+    "country": "Comoros",
+    "capital": "Moroni",
+    "lat": "-11.7",
+    "long": "43.233333",
+    "abbr": "KM",
+    "ContinentName": "Africa"
+}, {
+    "country": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "lat": "-4.316666666666666",
+    "long": "15.300000",
+    "abbr": "CD",
+    "ContinentName": "Africa"
+}, {
+    "country": "Republic of Congo",
+    "capital": "Brazzaville",
+    "lat": "-4.25",
+    "long": "15.283333",
+    "abbr": "CG",
+    "ContinentName": "Africa"
+}, {
+    "country": "Cook Islands",
+    "capital": "Avarua",
+    "lat": "-21.2",
+    "long": "-159.766667",
+    "abbr": "CK",
+    "ContinentName": "Australia"
+}, {
+    "country": "Costa Rica",
+    "capital": "San Jose",
+    "lat": "9.933333333333334",
+    "long": "-84.083333",
+    "abbr": "CR",
+    "ContinentName": "Central America"
+}, {
+    "country": "Cote d'Ivoire",
+    "capital": "Yamoussoukro",
+    "lat": "6.816666666666666",
+    "long": "-5.266667",
+    "abbr": "CI",
+    "ContinentName": "Africa"
+}, {
+    "country": "Croatia",
+    "capital": "Zagreb",
+    "lat": "45.8",
+    "long": "16.000000",
+    "abbr": "HR",
+    "ContinentName": "Europe"
+}, {
+    "country": "Cuba",
+    "capital": "Havana",
+    "lat": "23.116666666666667",
+    "long": "-82.350000",
+    "abbr": "CU",
+    "ContinentName": "North America"
+}, {
+    "country": "CuraÃ§ao",
+    "capital": "Willemstad",
+    "lat": "12.1",
+    "long": "-68.916667",
+    "abbr": "CW",
+    "ContinentName": "North America"
+}, {
+    "country": "Cyprus",
+    "capital": "Nicosia",
+    "lat": "35.166666666666664",
+    "long": "33.366667",
+    "abbr": "CY",
+    "ContinentName": "Europe"
+}, {
+    "country": "Czech Republic",
+    "capital": "Prague",
+    "lat": "50.083333333333336",
+    "long": "14.466667",
+    "abbr": "CZ",
+    "ContinentName": "Europe"
+}, {
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "lat": "55.666666666666664",
+    "long": "12.583333",
+    "abbr": "DK",
+    "ContinentName": "Europe"
+}, {
+    "country": "Djibouti",
+    "capital": "Djibouti",
+    "lat": "11.583333333333334",
+    "long": "43.150000",
+    "abbr": "DJ",
+    "ContinentName": "Africa"
+}, {
+    "country": "Dominica",
+    "capital": "Roseau",
+    "lat": "15.3",
+    "long": "-61.400000",
+    "abbr": "DM",
+    "ContinentName": "North America"
+}, {
+    "country": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "lat": "18.466666666666665",
+    "long": "-69.900000",
+    "abbr": "DO",
+    "ContinentName": "North America"
+}, {
+    "country": "Ecuador",
+    "capital": "Quito",
+    "lat": "-0.21666666666666667",
+    "long": "-78.500000",
+    "abbr": "EC",
+    "ContinentName": "South America"
+}, {
+    "country": "Egypt",
+    "capital": "Cairo",
+    "lat": "30.05",
+    "long": "31.250000",
+    "abbr": "EG",
+    "ContinentName": "Africa"
+}, {
+    "country": "El Salvador",
+    "capital": "San Salvador",
+    "lat": "13.7",
+    "long": "-89.200000",
+    "abbr": "SV",
+    "ContinentName": "Central America"
+}, {
+    "country": "Equatorial Guinea",
+    "capital": "Malabo",
+    "lat": "3.75",
+    "long": "8.783333",
+    "abbr": "GQ",
+    "ContinentName": "Africa"
+}, {
+    "country": "Eritrea",
+    "capital": "Asmara",
+    "lat": "15.333333333333334",
+    "long": "38.933333",
+    "abbr": "ER",
+    "ContinentName": "Africa"
+}, {
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "lat": "59.43333333333333",
+    "long": "24.716667",
+    "abbr": "EE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Ethiopia",
+    "capital": "Addis Ababa",
+    "lat": "9.033333333333333",
+    "long": "38.700000",
+    "abbr": "ET",
+    "ContinentName": "Africa"
+}, {
+    "country": "Falkland Islands",
+    "capital": "Stanley",
+    "lat": "-51.7",
+    "long": "-57.850000",
+    "abbr": "FK",
+    "ContinentName": "South America"
+}, {
+    "country": "Faroe Islands",
+    "capital": "Torshavn",
+    "lat": "62",
+    "long": "-6.766667",
+    "abbr": "FO",
+    "ContinentName": "Europe"
+}, {
+    "country": "Fiji",
+    "capital": "Suva",
+    "lat": "-18.133333333333333",
+    "long": "178.416667",
+    "abbr": "FJ",
+    "ContinentName": "Australia"
+}, {
+    "country": "Finland",
+    "capital": "Helsinki",
+    "lat": "60.166666666666664",
+    "long": "24.933333",
+    "abbr": "FI",
+    "ContinentName": "Europe"
+}, {
+    "country": "France",
+    "capital": "Paris",
+    "lat": "48.86666666666667",
+    "long": "2.333333",
+    "abbr": "FR",
+    "ContinentName": "Europe"
+}, {
+    "country": "French Polynesia",
+    "capital": "Papeete",
+    "lat": "-17.533333333333335",
+    "long": "-149.566667",
+    "abbr": "PF",
+    "ContinentName": "Australia"
+}, {
+    "country": "Gabon",
+    "capital": "Libreville",
+    "lat": "0.38333333333333336",
+    "long": "9.450000",
+    "abbr": "GA",
+    "ContinentName": "Africa"
+}, {
+    "country": "The Gambia",
+    "capital": "Banjul",
+    "lat": "13.45",
+    "long": "-16.566667",
+    "abbr": "GM",
+    "ContinentName": "Africa"
+}, {
+    "country": "Georgia",
+    "capital": "Tbilisi",
+    "lat": "41.68333333333333",
+    "long": "44.833333",
+    "abbr": "GE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Germany",
+    "capital": "Berlin",
+    "lat": "52.516666666666666",
+    "long": "13.400000",
+    "abbr": "DE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Ghana",
+    "capital": "Accra",
+    "lat": "5.55",
+    "long": "-0.216667",
+    "abbr": "GH",
+    "ContinentName": "Africa"
+}, {
+    "country": "Gibraltar",
+    "capital": "Gibraltar",
+    "lat": "36.13333333333333",
+    "long": "-5.350000",
+    "abbr": "GI",
+    "ContinentName": "Europe"
+}, {
+    "country": "Greece",
+    "capital": "Athens",
+    "lat": "37.983333333333334",
+    "long": "23.733333",
+    "abbr": "GR",
+    "ContinentName": "Europe"
+}, {
+    "country": "Greenland",
+    "capital": "Nuuk",
+    "lat": "64.18333333333334",
+    "long": "-51.750000",
+    "abbr": "GL",
+    "ContinentName": "Central America"
+}, {
+    "country": "Grenada",
+    "capital": "Saint George's",
+    "lat": "12.05",
+    "long": "-61.750000",
+    "abbr": "GD",
+    "ContinentName": "North America"
+}, {
+    "country": "Guam",
+    "capital": "Hagatna",
+    "lat": "13.466666666666667",
+    "long": "144.733333",
+    "abbr": "GU",
+    "ContinentName": "Australia"
+}, {
+    "country": "Guatemala",
+    "capital": "Guatemala City",
+    "lat": "14.616666666666667",
+    "long": "-90.516667",
+    "abbr": "GT",
+    "ContinentName": "Central America"
+}, {
+    "country": "Guernsey",
+    "capital": "Saint Peter Port",
+    "lat": "49.45",
+    "long": "-2.533333",
+    "abbr": "GG",
+    "ContinentName": "Europe"
+}, {
+    "country": "Guinea",
+    "capital": "Conakry",
+    "lat": "9.5",
+    "long": "-13.700000",
+    "abbr": "GN",
+    "ContinentName": "Africa"
+}, {
+    "country": "Guinea-Bissau",
+    "capital": "Bissau",
+    "lat": "11.85",
+    "long": "-15.583333",
+    "abbr": "GW",
+    "ContinentName": "Africa"
+}, {
+    "country": "Guyana",
+    "capital": "Georgetown",
+    "lat": "6.8",
+    "long": "-58.150000",
+    "abbr": "GY",
+    "ContinentName": "South America"
+}, {
+    "country": "Haiti",
+    "capital": "Port-au-Prince",
+    "lat": "18.533333333333335",
+    "long": "-72.333333",
+    "abbr": "HT",
+    "ContinentName": "North America"
+}, {
+    "country": "Vatican City",
+    "capital": "Vatican City",
+    "lat": "41.9",
+    "long": "12.450000",
+    "abbr": "VA",
+    "ContinentName": "Europe"
+}, {
+    "country": "Honduras",
+    "capital": "Tegucigalpa",
+    "lat": "14.1",
+    "long": "-87.216667",
+    "abbr": "HN",
+    "ContinentName": "Central America"
+}, {
+    "country": "Hungary",
+    "capital": "Budapest",
+    "lat": "47.5",
+    "long": "19.083333",
+    "abbr": "HU",
+    "ContinentName": "Europe"
+}, {
+    "country": "Iceland",
+    "capital": "Reykjavik",
+    "lat": "64.15",
+    "long": "-21.950000",
+    "abbr": "IS",
+    "ContinentName": "Europe"
+}, {
+    "country": "India",
+    "capital": "New Delhi",
+    "lat": "28.6",
+    "long": "77.200000",
+    "abbr": "IN",
+    "ContinentName": "Asia"
+}, {
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "lat": "-6.166666666666667",
+    "long": "106.816667",
+    "abbr": "ID",
+    "ContinentName": "Asia"
+}, {
+    "country": "Iran",
+    "capital": "Tehran",
+    "lat": "35.7",
+    "long": "51.416667",
+    "abbr": "IR",
+    "ContinentName": "Asia"
+}, {
+    "country": "Iraq",
+    "capital": "Baghdad",
+    "lat": "33.333333333333336",
+    "long": "44.400000",
+    "abbr": "IQ",
+    "ContinentName": "Asia"
+}, {
+    "country": "Ireland",
+    "capital": "Dublin",
+    "lat": "53.31666666666667",
+    "long": "-6.233333",
+    "abbr": "IE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Isle of Man",
+    "capital": "Douglas",
+    "lat": "54.15",
+    "long": "-4.483333",
+    "abbr": "IM",
+    "ContinentName": "Europe"
+}, {
+    "country": "Israel",
+    "capital": "Jerusalem",
+    "lat": "31.766666666666666",
+    "long": "35.233333",
+    "abbr": "IL",
+    "ContinentName": "Asia"
+}, {
+    "country": "Italy",
+    "capital": "Rome",
+    "lat": "41.9",
+    "long": "12.483333",
+    "abbr": "IT",
+    "ContinentName": "Europe"
+}, {
+    "country": "Jamaica",
+    "capital": "Kingston",
+    "lat": "18",
+    "long": "-76.800000",
+    "abbr": "JM",
+    "ContinentName": "North America"
+}, {
+    "country": "Japan",
+    "capital": "Tokyo",
+    "lat": "35.68333333333333",
+    "long": "139.750000",
+    "abbr": "JP",
+    "ContinentName": "Asia"
+}, {
+    "country": "Jersey",
+    "capital": "Saint Helier",
+    "lat": "49.18333333333333",
+    "long": "-2.100000",
+    "abbr": "JE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Jordan",
+    "capital": "Amman",
+    "lat": "31.95",
+    "long": "35.933333",
+    "abbr": "JO",
+    "ContinentName": "Asia"
+}, {
+    "country": "Kazakhstan",
+    "capital": "Astana",
+    "lat": "51.166666666666664",
+    "long": "71.416667",
+    "abbr": "KZ",
+    "ContinentName": "Asia"
+}, {
+    "country": "Kenya",
+    "capital": "Nairobi",
+    "lat": "-1.2833333333333332",
+    "long": "36.816667",
+    "abbr": "KE",
+    "ContinentName": "Africa"
+}, {
+    "country": "Kiribati",
+    "capital": "Tarawa",
+    "lat": "-0.8833333333333333",
+    "long": "169.533333",
+    "abbr": "KI",
+    "ContinentName": "Australia"
+}, {
+    "country": "North Korea",
+    "capital": "Pyongyang",
+    "lat": "39.016666666666666",
+    "long": "125.750000",
+    "abbr": "KP",
+    "ContinentName": "Asia"
+}, {
+    "country": "South Korea",
+    "capital": "Seoul",
+    "lat": "37.55",
+    "long": "126.983333",
+    "abbr": "KR",
+    "ContinentName": "Asia"
+}, {
+    "country": "Kosovo",
+    "capital": "Pristina",
+    "lat": "42.666666666666664",
+    "long": "21.166667",
+    "abbr": "KO",
+    "ContinentName": "Europe"
+}, {
+    "country": "Kuwait",
+    "capital": "Kuwait City",
+    "lat": "29.366666666666667",
+    "long": "47.966667",
+    "abbr": "KW",
+    "ContinentName": "Asia"
+}, {
+    "country": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "lat": "42.86666666666667",
+    "long": "74.600000",
+    "abbr": "KG",
+    "ContinentName": "Asia"
+}, {
+    "country": "Laos",
+    "capital": "Vientiane",
+    "lat": "17.966666666666665",
+    "long": "102.600000",
+    "abbr": "LA",
+    "ContinentName": "Asia"
+}, {
+    "country": "Latvia",
+    "capital": "Riga",
+    "lat": "56.95",
+    "long": "24.100000",
+    "abbr": "LV",
+    "ContinentName": "Europe"
+}, {
+    "country": "Lebanon",
+    "capital": "Beirut",
+    "lat": "33.86666666666667",
+    "long": "35.500000",
+    "abbr": "LB",
+    "ContinentName": "Asia"
+}, {
+    "country": "Lesotho",
+    "capital": "Maseru",
+    "lat": "-29.316666666666666",
+    "long": "27.483333",
+    "abbr": "LS",
+    "ContinentName": "Africa"
+}, {
+    "country": "Liberia",
+    "capital": "Monrovia",
+    "lat": "6.3",
+    "long": "-10.800000",
+    "abbr": "LR",
+    "ContinentName": "Africa"
+}, {
+    "country": "Libya",
+    "capital": "Tripoli",
+    "lat": "32.88333333333333",
+    "long": "13.166667",
+    "abbr": "LY",
+    "ContinentName": "Africa"
+}, {
+    "country": "Liechtenstein",
+    "capital": "Vaduz",
+    "lat": "47.13333333333333",
+    "long": "9.516667",
+    "abbr": "LI",
+    "ContinentName": "Europe"
+}, {
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "lat": "54.68333333333333",
+    "long": "25.316667",
+    "abbr": "LT",
+    "ContinentName": "Europe"
+}, {
+    "country": "Luxembourg",
+    "capital": "Luxembourg",
+    "lat": "49.6",
+    "long": "6.116667",
+    "abbr": "LU",
+    "ContinentName": "Europe"
+}, {
+    "country": "Macedonia",
+    "capital": "Skopje",
+    "lat": "42",
+    "long": "21.433333",
+    "abbr": "MK",
+    "ContinentName": "Europe"
+}, {
+    "country": "Madagascar",
+    "capital": "Antananarivo",
+    "lat": "-18.916666666666668",
+    "long": "47.516667",
+    "abbr": "MG",
+    "ContinentName": "Africa"
+}, {
+    "country": "Malawi",
+    "capital": "Lilongwe",
+    "lat": "-13.966666666666667",
+    "long": "33.783333",
+    "abbr": "MW",
+    "ContinentName": "Africa"
+}, {
+    "country": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "lat": "3.1666666666666665",
+    "long": "101.700000",
+    "abbr": "MY",
+    "ContinentName": "Asia"
+}, {
+    "country": "Maldives",
+    "capital": "Male",
+    "lat": "4.166666666666667",
+    "long": "73.500000",
+    "abbr": "MV",
+    "ContinentName": "Asia"
+}, {
+    "country": "Mali",
+    "capital": "Bamako",
+    "lat": "12.65",
+    "long": "-8.000000",
+    "abbr": "ML",
+    "ContinentName": "Africa"
+}, {
+    "country": "Malta",
+    "capital": "Valletta",
+    "lat": "35.88333333333333",
+    "long": "14.500000",
+    "abbr": "MT",
+    "ContinentName": "Europe"
+}, {
+    "country": "Marshall Islands",
+    "capital": "Majuro",
+    "lat": "7.1",
+    "long": "171.383333",
+    "abbr": "MH",
+    "ContinentName": "Australia"
+}, {
+    "country": "Mauritania",
+    "capital": "Nouakchott",
+    "lat": "18.066666666666666",
+    "long": "-15.966667",
+    "abbr": "MR",
+    "ContinentName": "Africa"
+}, {
+    "country": "Mauritius",
+    "capital": "Port Louis",
+    "lat": "-20.15",
+    "long": "57.483333",
+    "abbr": "MU",
+    "ContinentName": "Africa"
+}, {
+    "country": "Mexico",
+    "capital": "Mexico City",
+    "lat": "19.433333333333334",
+    "long": "-99.133333",
+    "abbr": "MX",
+    "ContinentName": "Central America"
+}, {
+    "country": "Federated States of Micronesia",
+    "capital": "Palikir",
+    "lat": "6.916666666666667",
+    "long": "158.150000",
+    "abbr": "FM",
+    "ContinentName": "Australia"
+}, {
+    "country": "Moldova",
+    "capital": "Chisinau",
+    "lat": "47",
+    "long": "28.850000",
+    "abbr": "MD",
+    "ContinentName": "Europe"
+}, {
+    "country": "Monaco",
+    "capital": "Monaco",
+    "lat": "43.733333333333334",
+    "long": "7.416667",
+    "abbr": "MC",
+    "ContinentName": "Europe"
+}, {
+    "country": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "lat": "47.916666666666664",
+    "long": "106.916667",
+    "abbr": "MN",
+    "ContinentName": "Asia"
+}, {
+    "country": "Montenegro",
+    "capital": "Podgorica",
+    "lat": "42.43333333333333",
+    "long": "19.266667",
+    "abbr": "ME",
+    "ContinentName": "Europe"
+}, {
+    "country": "Montserrat",
+    "capital": "Plymouth",
+    "lat": "16.7",
+    "long": "-62.216667",
+    "abbr": "MS",
+    "ContinentName": "North America"
+}, {
+    "country": "Morocco",
+    "capital": "Rabat",
+    "lat": "34.016666666666666",
+    "long": "-6.816667",
+    "abbr": "MA",
+    "ContinentName": "Africa"
+}, {
+    "country": "Mozambique",
+    "capital": "Maputo",
+    "lat": "-25.95",
+    "long": "32.583333",
+    "abbr": "MZ",
+    "ContinentName": "Africa"
+}, {
+    "country": "Namibia",
+    "capital": "Windhoek",
+    "lat": "-22.566666666666666",
+    "long": "17.083333",
+    "abbr": "NA",
+    "ContinentName": "Africa"
+}, {
+    "country": "Nepal",
+    "capital": "Kathmandu",
+    "lat": "27.716666666666665",
+    "long": "85.316667",
+    "abbr": "NP",
+    "ContinentName": "Asia"
+}, {
+    "country": "Netherlands",
+    "capital": "Amsterdam",
+    "lat": "52.35",
+    "long": "4.916667",
+    "abbr": "NL",
+    "ContinentName": "Europe"
+}, {
+    "country": "New Caledonia",
+    "capital": "Noumea",
+    "lat": "-22.266666666666666",
+    "long": "166.450000",
+    "abbr": "NC",
+    "ContinentName": "Australia"
+}, {
+    "country": "New Zealand",
+    "capital": "Wellington",
+    "lat": "-41.3",
+    "long": "174.783333",
+    "abbr": "NZ",
+    "ContinentName": "Australia"
+}, {
+    "country": "Nicaragua",
+    "capital": "Managua",
+    "lat": "12.133333333333333",
+    "long": "-86.250000",
+    "abbr": "NI",
+    "ContinentName": "Central America"
+}, {
+    "country": "Niger",
+    "capital": "Niamey",
+    "lat": "13.516666666666667",
+    "long": "2.116667",
+    "abbr": "NE",
+    "ContinentName": "Africa"
+}, {
+    "country": "Nigeria",
+    "capital": "Abuja",
+    "lat": "9.083333333333334",
+    "long": "7.533333",
+    "abbr": "NG",
+    "ContinentName": "Africa"
+}, {
+    "country": "Niue",
+    "capital": "Alofi",
+    "lat": "-19.016666666666666",
+    "long": "-169.916667",
+    "abbr": "NU",
+    "ContinentName": "Australia"
+}, {
+    "country": "Norfolk Island",
+    "capital": "Kingston",
+    "lat": "-29.05",
+    "long": "167.966667",
+    "abbr": "NF",
+    "ContinentName": "Australia"
+}, {
+    "country": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "lat": "15.2",
+    "long": "145.750000",
+    "abbr": "MP",
+    "ContinentName": "Australia"
+}, {
+    "country": "Norway",
+    "capital": "Oslo",
+    "lat": "59.916666666666664",
+    "long": "10.750000",
+    "abbr": "NO",
+    "ContinentName": "Europe"
+}, {
+    "country": "Oman",
+    "capital": "Muscat",
+    "lat": "23.616666666666667",
+    "long": "58.583333",
+    "abbr": "OM",
+    "ContinentName": "Asia"
+}, {
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "lat": "33.68333333333333",
+    "long": "73.050000",
+    "abbr": "PK",
+    "ContinentName": "Asia"
+}, {
+    "country": "Palau",
+    "capital": "Melekeok",
+    "lat": "7.483333333333333",
+    "long": "134.633333",
+    "abbr": "PW",
+    "ContinentName": "Australia"
+}, {
+    "country": "Panama",
+    "capital": "Panama City",
+    "lat": "8.966666666666667",
+    "long": "-79.533333",
+    "abbr": "PA",
+    "ContinentName": "Central America"
+}, {
+    "country": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "lat": "-9.45",
+    "long": "147.183333",
+    "abbr": "PG",
+    "ContinentName": "Australia"
+}, {
+    "country": "Paraguay",
+    "capital": "Asuncion",
+    "lat": "-25.266666666666666",
+    "long": "-57.666667",
+    "abbr": "PY",
+    "ContinentName": "South America"
+}, {
+    "country": "Peru",
+    "capital": "Lima",
+    "lat": "-12.05",
+    "long": "-77.050000",
+    "abbr": "PE",
+    "ContinentName": "South America"
+}, {
+    "country": "Philippines",
+    "capital": "Manila",
+    "lat": "14.6",
+    "long": "120.966667",
+    "abbr": "PH",
+    "ContinentName": "Asia"
+}, {
+    "country": "Pitcairn Islands",
+    "capital": "Adamstown",
+    "lat": "-25.066666666666666",
+    "long": "-130.083333",
+    "abbr": "PN",
+    "ContinentName": "Australia"
+}, {
+    "country": "Poland",
+    "capital": "Warsaw",
+    "lat": "52.25",
+    "long": "21.000000",
+    "abbr": "PL",
+    "ContinentName": "Europe"
+}, {
+    "country": "Portugal",
+    "capital": "Lisbon",
+    "lat": "38.71666666666667",
+    "long": "-9.133333",
+    "abbr": "PT",
+    "ContinentName": "Europe"
+}, {
+    "country": "Puerto Rico",
+    "capital": "San Juan",
+    "lat": "18.466666666666665",
+    "long": "-66.116667",
+    "abbr": "PR",
+    "ContinentName": "North America"
+}, {
+    "country": "Qatar",
+    "capital": "Doha",
+    "lat": "25.283333333333335",
+    "long": "51.533333",
+    "abbr": "QA",
+    "ContinentName": "Asia"
+}, {
+    "country": "Romania",
+    "capital": "Bucharest",
+    "lat": "44.43333333333333",
+    "long": "26.100000",
+    "abbr": "RO",
+    "ContinentName": "Europe"
+}, {
+    "country": "Russia",
+    "capital": "Moscow",
+    "lat": "55.75",
+    "long": "37.600000",
+    "abbr": "RU",
+    "ContinentName": "Europe"
+}, {
+    "country": "Rwanda",
+    "capital": "Kigali",
+    "lat": "-1.95",
+    "long": "30.050000",
+    "abbr": "RW",
+    "ContinentName": "Africa"
+}, {
+    "country": "Saint Barthelemy",
+    "capital": "Gustavia",
+    "lat": "17.883333333333333",
+    "long": "-62.850000",
+    "abbr": "BL",
+    "ContinentName": "North America"
+}, {
+    "country": "Saint Helena",
+    "capital": "Jamestown",
+    "lat": "-15.933333333333334",
+    "long": "-5.716667",
+    "abbr": "SH",
+    "ContinentName": "Africa"
+}, {
+    "country": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "lat": "17.3",
+    "long": "-62.716667",
+    "abbr": "KN",
+    "ContinentName": "North America"
+}, {
+    "country": "Saint Lucia",
+    "capital": "Castries",
+    "lat": "14",
+    "long": "-61.000000",
+    "abbr": "LC",
+    "ContinentName": "North America"
+}, {
+    "country": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "lat": "46.766666666666666",
+    "long": "-56.183333",
+    "abbr": "PM",
+    "ContinentName": "Central America"
+}, {
+    "country": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "lat": "13.133333333333333",
+    "long": "-61.216667",
+    "abbr": "VC",
+    "ContinentName": "Central America"
+}, {
+    "country": "Samoa",
+    "capital": "Apia",
+    "lat": "-13.816666666666666",
+    "long": "-171.766667",
+    "abbr": "WS",
+    "ContinentName": "Australia"
+}, {
+    "country": "San Marino",
+    "capital": "San Marino",
+    "lat": "43.93333333333333",
+    "long": "12.416667",
+    "abbr": "SM",
+    "ContinentName": "Europe"
+}, {
+    "country": "Sao Tome and Principe",
+    "capital": "Sao Tome",
+    "lat": "0.3333333333333333",
+    "long": "6.733333",
+    "abbr": "ST",
+    "ContinentName": "Africa"
+}, {
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "lat": "24.65",
+    "long": "46.700000",
+    "abbr": "SA",
+    "ContinentName": "Asia"
+}, {
+    "country": "Senegal",
+    "capital": "Dakar",
+    "lat": "14.733333333333333",
+    "long": "-17.633333",
+    "abbr": "SN",
+    "ContinentName": "Africa"
+}, {
+    "country": "Serbia",
+    "capital": "Belgrade",
+    "lat": "44.833333333333336",
+    "long": "20.500000",
+    "abbr": "RS",
+    "ContinentName": "Europe"
+}, {
+    "country": "Seychelles",
+    "capital": "Victoria",
+    "lat": "-4.616666666666667",
+    "long": "55.450000",
+    "abbr": "SC",
+    "ContinentName": "Africa"
+}, {
+    "country": "Sierra Leone",
+    "capital": "Freetown",
+    "lat": "8.483333333333333",
+    "long": "-13.233333",
+    "abbr": "SL",
+    "ContinentName": "Africa"
+}, {
+    "country": "Singapore",
+    "capital": "Singapore",
+    "lat": "1.2833333333333332",
+    "long": "103.850000",
+    "abbr": "SG",
+    "ContinentName": "Asia"
+}, {
+    "country": "Sint Maarten",
+    "capital": "Philipsburg",
+    "lat": "18.016666666666666",
+    "long": "-63.033333",
+    "abbr": "SX",
+    "ContinentName": "North America"
+}, {
+    "country": "Slovakia",
+    "capital": "Bratislava",
+    "lat": "48.15",
+    "long": "17.116667",
+    "abbr": "SK",
+    "ContinentName": "Europe"
+}, {
+    "country": "Slovenia",
+    "capital": "Ljubljana",
+    "lat": "46.05",
+    "long": "14.516667",
+    "abbr": "SI",
+    "ContinentName": "Europe"
+}, {
+    "country": "Solomon Islands",
+    "capital": "Honiara",
+    "lat": "-9.433333333333334",
+    "long": "159.950000",
+    "abbr": "SB",
+    "ContinentName": "Australia"
+}, {
+    "country": "Somalia",
+    "capital": "Mogadishu",
+    "lat": "2.066666666666667",
+    "long": "45.333333",
+    "abbr": "SO",
+    "ContinentName": "Africa"
+}, {
+    "country": "South Africa",
+    "capital": "Pretoria",
+    "lat": "-25.7",
+    "long": "28.216667",
+    "abbr": "ZA",
+    "ContinentName": "Africa"
+}, {
+    "country": "South Sudan",
+    "capital": "Juba",
+    "lat": "4.85",
+    "long": "31.616667",
+    "abbr": "SS",
+    "ContinentName": "Africa"
+}, {
+    "country": "Spain",
+    "capital": "Madrid",
+    "lat": "40.4",
+    "long": "-3.683333",
+    "abbr": "ES",
+    "ContinentName": "Europe"
+}, {
+    "country": "Sri Lanka",
+    "capital": "Colombo",
+    "lat": "6.916666666666667",
+    "long": "79.833333",
+    "abbr": "LK",
+    "ContinentName": "Asia"
+}, {
+    "country": "Sudan",
+    "capital": "Khartoum",
+    "lat": "15.6",
+    "long": "32.533333",
+    "abbr": "SD",
+    "ContinentName": "Africa"
+}, {
+    "country": "Suriname",
+    "capital": "Paramaribo",
+    "lat": "5.833333333333333",
+    "long": "-55.166667",
+    "abbr": "SR",
+    "ContinentName": "South America"
+}, {
+    "country": "Svalbard",
+    "capital": "Longyearbyen",
+    "lat": "78.21666666666667",
+    "long": "15.633333",
+    "abbr": "SJ",
+    "ContinentName": "Europe"
+}, {
+    "country": "Swaziland",
+    "capital": "Mbabane",
+    "lat": "-26.316666666666666",
+    "long": "31.133333",
+    "abbr": "SZ",
+    "ContinentName": "Africa"
+}, {
+    "country": "Sweden",
+    "capital": "Stockholm",
+    "lat": "59.333333333333336",
+    "long": "18.050000",
+    "abbr": "SE",
+    "ContinentName": "Europe"
+}, {
+    "country": "Switzerland",
+    "capital": "Bern",
+    "lat": "46.916666666666664",
+    "long": "7.466667",
+    "abbr": "CH",
+    "ContinentName": "Europe"
+}, {
+    "country": "Syria",
+    "capital": "Damascus",
+    "lat": "33.5",
+    "long": "36.300000",
+    "abbr": "SY",
+    "ContinentName": "Asia"
+}, {
+    "country": "Taiwan",
+    "capital": "Taipei",
+    "lat": "25.033333333333335",
+    "long": "121.516667",
+    "abbr": "TW",
+    "ContinentName": "Asia"
+}, {
+    "country": "Tajikistan",
+    "capital": "Dushanbe",
+    "lat": "38.55",
+    "long": "68.766667",
+    "abbr": "TJ",
+    "ContinentName": "Asia"
+}, {
+    "country": "Tanzania",
+    "capital": "Dar es Salaam",
+    "lat": "-6.8",
+    "long": "39.283333",
+    "abbr": "TZ",
+    "ContinentName": "Africa"
+}, {
+    "country": "Thailand",
+    "capital": "Bangkok",
+    "lat": "13.75",
+    "long": "100.516667",
+    "abbr": "TH",
+    "ContinentName": "Asia"
+}, {
+    "country": "Timor-Leste",
+    "capital": "Dili",
+    "lat": "-8.583333333333334",
+    "long": "125.600000",
+    "abbr": "TL",
+    "ContinentName": "Asia"
+}, {
+    "country": "Togo",
+    "capital": "Lome",
+    "lat": "6.116666666666666",
+    "long": "1.216667",
+    "abbr": "TG",
+    "ContinentName": "Africa"
+}, {
+    "country": "Tonga",
+    "capital": "Nuku'alofa",
+    "lat": "-21.133333333333333",
+    "long": "-175.200000",
+    "abbr": "TO",
+    "ContinentName": "Australia"
+}, {
+    "country": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "lat": "10.65",
+    "long": "-61.516667",
+    "abbr": "TT",
+    "ContinentName": "North America"
+}, {
+    "country": "Tunisia",
+    "capital": "Tunis",
+    "lat": "36.8",
+    "long": "10.183333",
+    "abbr": "TN",
+    "ContinentName": "Africa"
+}, {
+    "country": "Turkey",
+    "capital": "Ankara",
+    "lat": "39.93333333333333",
+    "long": "32.866667",
+    "abbr": "TR",
+    "ContinentName": "Europe"
+}, {
+    "country": "Turkmenistan",
+    "capital": "Ashgabat",
+    "lat": "37.95",
+    "long": "58.383333",
+    "abbr": "TM",
+    "ContinentName": "Asia"
+}, {
+    "country": "Turks and Caicos Islands",
+    "capital": "Grand Turk",
+    "lat": "21.466666666666665",
+    "long": "-71.133333",
+    "abbr": "TC",
+    "ContinentName": "North America"
+}, {
+    "country": "Tuvalu",
+    "capital": "Funafuti",
+    "lat": "-8.516666666666667",
+    "long": "179.216667",
+    "abbr": "TV",
+    "ContinentName": "Australia"
+}, {
+    "country": "Uganda",
+    "capital": "Kampala",
+    "lat": "0.31666666666666665",
+    "long": "32.550000",
+    "abbr": "UG",
+    "ContinentName": "Africa"
+}, {
+    "country": "Ukraine",
+    "capital": "Kyiv",
+    "lat": "50.43333333333333",
+    "long": "30.516667",
+    "abbr": "UA",
+    "ContinentName": "Europe"
+}, {
+    "country": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "lat": "24.466666666666665",
+    "long": "54.366667",
+    "abbr": "AE",
+    "ContinentName": "Asia"
+}, {
+    "country": "United Kingdom",
+    "capital": "London",
+    "lat": "51.5",
+    "long": "-0.083333",
+    "abbr": "GB",
+    "ContinentName": "Europe"
+}, {
+    "country": "United States",
+    "capital": "Washington",
+    "lat": " D.C.",
+    "long": "38.883333",
+    "abbr": "-77.000000",
+    "ContinentName": "US"
+}, {
+    "country": "Uruguay",
+    "capital": "Montevideo",
+    "lat": "-34.85",
+    "long": "-56.166667",
+    "abbr": "UY",
+    "ContinentName": "South America"
+}, {
+    "country": "Uzbekistan",
+    "capital": "Tashkent",
+    "lat": "41.31666666666667",
+    "long": "69.250000",
+    "abbr": "UZ",
+    "ContinentName": "Asia"
+}, {
+    "country": "Vanuatu",
+    "capital": "Port-Vila",
+    "lat": "-17.733333333333334",
+    "long": "168.316667",
+    "abbr": "VU",
+    "ContinentName": "Australia"
+}, {
+    "country": "Venezuela",
+    "capital": "Caracas",
+    "lat": "10.483333333333333",
+    "long": "-66.866667",
+    "abbr": "VE",
+    "ContinentName": "South America"
+}, {
+    "country": "Vietnam",
+    "capital": "Hanoi",
+    "lat": "21.033333333333335",
+    "long": "105.850000",
+    "abbr": "VN",
+    "ContinentName": "Asia"
+}, {
+    "country": "US Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "lat": "18.35",
+    "long": "-64.933333",
+    "abbr": "VI",
+    "ContinentName": "North America"
+}, {
+    "country": "Wallis and Futuna",
+    "capital": "Mata-Utu",
+    "lat": "-13.95",
+    "long": "-171.933333",
+    "abbr": "WF",
+    "ContinentName": "Australia"
+}, {
+    "country": "Yemen",
+    "capital": "Sanaa",
+    "lat": "15.35",
+    "long": "44.200000",
+    "abbr": "YE",
+    "ContinentName": "Asia"
+}, {
+    "country": "Zambia",
+    "capital": "Lusaka",
+    "lat": "-15.416666666666666",
+    "long": "28.283333",
+    "abbr": "ZM",
+    "ContinentName": "Africa"
+}, {
+    "country": "Zimbabwe",
+    "capital": "Harare",
+    "lat": "-17.816666666666666",
+    "long": "31.033333",
+    "abbr": "ZW",
+    "ContinentName": "Africa"
+}, {
+    "country": "US Minor Outlying Islands",
+    "capital": "Washington",
+    "lat": " D.C.",
+    "long": "38.883333",
+    "abbr": "-77.000000",
+    "ContinentName": "UM"
+}, {
+    "country": "Antarctica",
+    "capital": "N/A",
+    "lat": "0",
+    "long": "0.000000",
+    "abbr": "AQ",
+    "ContinentName": "Antarctica"
+}, {
+    "country": "Northern Cyprus",
+    "capital": "North Nicosia",
+    "lat": "35.183333",
+    "long": "33.366667",
+    "abbr": "NULL",
+    "ContinentName": "Europe"
+}, {
+    "country": "Hong Kong",
+    "capital": "N/A",
+    "lat": "0",
+    "long": "0.000000",
+    "abbr": "HK",
+    "ContinentName": "Asia"
+}, {
+    "country": "Heard Island and McDonald Islands",
+    "capital": "N/A",
+    "lat": "0",
+    "long": "0.000000",
+    "abbr": "HM",
+    "ContinentName": "Antarctica"
+}, {
+    "country": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "lat": "-7.3",
+    "long": "72.400000",
+    "abbr": "IO",
+    "ContinentName": "Africa"
+}, {
+    "country": "Macau",
+    "capital": "N/A",
+    "lat": "0",
+    "long": "0.000000",
+    "abbr": "MO",
+    "ContinentName": "Asia"
+}]
